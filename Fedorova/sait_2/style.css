@@ -46,6 +46,7 @@ main p {
     margin: 20px;
     border: 1px solid navy;
     border-radius: 15px;
+    text-align: justify;
 }
 
 p img {
@@ -67,6 +68,4 @@ footer p {
     background-color: white;
     padding: 5px;
 }
-main {
-   text-align:justify ; 
-}
+
